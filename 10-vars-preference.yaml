@@ -19,3 +19,12 @@
       WISHES: "Morning from task"
     ansible.builtin.debug:
       msg:"Hello {{PERSONS}}, Good {{WISHES}}"
+
+
+# 1. CMD line
+# 2. task level
+# 3. files
+# 4. prompt
+# 5. play level
+# 6. inventory
+# 7. roles
