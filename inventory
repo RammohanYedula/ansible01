@@ -1,5 +1,13 @@
 [web]
 44.204.183.12
 
+[localhost]
+localhost
+
+[localhost:vars]
+Course="DEVOPS WITH AZURE"
+Trainer="RAGHU"
+Duration="127HRS"
+
 [cataloge]
 192.3.33.33
