@@ -1,16 +1,5 @@
+[app]
+ubuntu@172.31.36.209
+
 [web]
-44.204.183.12
-
-[localhost]
-localhost
-
-[localhost:vars]
-Course="DEVOPS WITH AZURE"
-Trainer="RAGHU"
-Duration="127HRS"
-
-PERSONS="Shiva from inventory"
-WISHES="Morning from inventory"
-
-[cataloge]
-192.3.33.33
+ubuntu@172.31.32.101
